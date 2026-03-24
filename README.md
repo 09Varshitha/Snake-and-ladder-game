@@ -1,6 +1,6 @@
 Snake and Ladder Game – C++ (DSA Based)
 
-This project is a console-based Snake and Ladder game developed in C++ that demonstrates the practical implementation of Data Structures and Algorithms (DSA) along with Object-Oriented Programming (OOP) concepts. The game supports multiple players (1–4) and simulates the classic board game experience in a terminal environment.
+This project is a Snake and Ladder game developed in C++ that demonstrates the practical implementation of Data Structures and Algorithms (DSA) along with Object-Oriented Programming (OOP) concepts. The game supports multiple players (1–4) and simulates the classic board game experience in a terminal environment.
 
 The core idea behind this project is to model the game board as a graph where each cell represents a node and possible dice moves represent edges. Using this structure, the program constructs an adjacency list to represent all possible moves on the board while accounting for snakes and ladders that change a player’s position.
 
